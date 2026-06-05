@@ -1,6 +1,12 @@
 # Ratventure
 
-A text-based roguelike adventure game built in Python. You play as a hero who must fight through hordes of rats, defeat a fearsome Guardian, and finally confront the Rat King to break the curse on the kingdom.
+Ratventure is a remaster of the very first program I ever wrote. Back in 2020, during my time at Ngee Ann Polytechnic, I built the original version of this game as a project for my PRG1 module. It was the beginning of my coding journey and one of those things I look back on with a lot of fondness.
+
+My biggest regret from poly is what happened to that file. The moment the semester ended, I deleted it without a second thought. No backup, no screenshot, nothing. I did not think much of it at the time, but that decision has stuck with me ever since.
+
+Years later, I decided to rebuild it from scratch. Part of it was sentimental, wanting to recreate something I lost. Part of it was a personal challenge to see how much I had grown. I also used this project as a way to properly learn Claude Code in the terminal, and honestly it has been one of the more enjoyable ways to pick up a new tool.
+
+This version goes beyond what the original ever was. Features I wanted to add back then but had no idea how to implement are all in here now, from boss fights and a levelling system to enemy dialogue and a morality mechanic. Seeing it come together the way I always imagined it, with the skills I have built over the years, has been genuinely satisfying.
 
 ---
 
