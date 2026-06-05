@@ -21,6 +21,11 @@ env/
 .idea/
 *.iml
 
+# PyInstaller
+dist/
+build/
+*.spec
+
 # OS
 .DS_Store
 Thumbs.db
